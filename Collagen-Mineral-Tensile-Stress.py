@@ -7,8 +7,7 @@ from math import pi
 import csv
 import os
 
-Sims = ["5-Series5","6-Series6","8-Series8","9-Series9"]
-path = "??"
+Sims = ["1-Series1","2-Series2","3-Series3","4-Series4","5-Series5"]
 volPerBead = 0
 
 TimeStep  = []
